@@ -1,0 +1,15 @@
+C:\gc_repos\ex32_getArrayIndexValue\ex32_getArrayIndexValue\bin\Debug\net6.0\ex32_getArrayIndexValue.exe
+C:\gc_repos\ex32_getArrayIndexValue\ex32_getArrayIndexValue\bin\Debug\net6.0\ex32_getArrayIndexValue.deps.json
+C:\gc_repos\ex32_getArrayIndexValue\ex32_getArrayIndexValue\bin\Debug\net6.0\ex32_getArrayIndexValue.runtimeconfig.json
+C:\gc_repos\ex32_getArrayIndexValue\ex32_getArrayIndexValue\bin\Debug\net6.0\ex32_getArrayIndexValue.dll
+C:\gc_repos\ex32_getArrayIndexValue\ex32_getArrayIndexValue\bin\Debug\net6.0\ref\ex32_getArrayIndexValue.dll
+C:\gc_repos\ex32_getArrayIndexValue\ex32_getArrayIndexValue\bin\Debug\net6.0\ex32_getArrayIndexValue.pdb
+C:\gc_repos\ex32_getArrayIndexValue\ex32_getArrayIndexValue\obj\Debug\net6.0\ex32_getArrayIndexValue.csproj.AssemblyReference.cache
+C:\gc_repos\ex32_getArrayIndexValue\ex32_getArrayIndexValue\obj\Debug\net6.0\ex32_getArrayIndexValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\gc_repos\ex32_getArrayIndexValue\ex32_getArrayIndexValue\obj\Debug\net6.0\ex32_getArrayIndexValue.AssemblyInfoInputs.cache
+C:\gc_repos\ex32_getArrayIndexValue\ex32_getArrayIndexValue\obj\Debug\net6.0\ex32_getArrayIndexValue.AssemblyInfo.cs
+C:\gc_repos\ex32_getArrayIndexValue\ex32_getArrayIndexValue\obj\Debug\net6.0\ex32_getArrayIndexValue.csproj.CoreCompileInputs.cache
+C:\gc_repos\ex32_getArrayIndexValue\ex32_getArrayIndexValue\obj\Debug\net6.0\ex32_getArrayIndexValue.dll
+C:\gc_repos\ex32_getArrayIndexValue\ex32_getArrayIndexValue\obj\Debug\net6.0\ref\ex32_getArrayIndexValue.dll
+C:\gc_repos\ex32_getArrayIndexValue\ex32_getArrayIndexValue\obj\Debug\net6.0\ex32_getArrayIndexValue.pdb
+C:\gc_repos\ex32_getArrayIndexValue\ex32_getArrayIndexValue\obj\Debug\net6.0\ex32_getArrayIndexValue.genruntimeconfig.cache
